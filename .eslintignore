@@ -1,0 +1,4 @@
+# Consider removing this ignore later.
+/assets/**/*.js
+
+/cdk.out
